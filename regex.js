@@ -1,8 +1,8 @@
 // match all letters case insentive, not strict
-/[a-zàáéóúâêôãõ]/i
+/[a-zàáéóúâêôãõç]/i
 
 // match one letter case insentive, strict
-/^[a-zàáéóúâêôãõ]$/i
+/^[a-zàáéóúâêôãõç]$/i
 
 // match one or more letters case insentive, strict
-/^[a-zàáéóúâêôãõ]+$/i
+/^[a-zàáéóúâêôãõç]+$/i
